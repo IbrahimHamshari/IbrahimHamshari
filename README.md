@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on:<br>Projects that involve building APIs with TypeScript and Express, particularly those focusing on scalability and performance.<br><br>🤝 I’m looking for help with:<br>Contributing to open-source projects where I can apply my experience with TypeScript, Docker, and SQL databases.<br><br>💬 Ask me about:<br>TypeScript, database optimization, and strategies for maintaining clean and modular codebases.<br><br>⚡ Fun fact:<br>I enjoy reverse-engineering problems and often challenge myself to rebuild complex systems from scratch!
+👯 I’m looking to collaborate on:<br>Projects that involve building APIs with TypeScript and Express, particularly those focusing on scalability and performance.<br><br>🤝 I’m looking for help with:<br>Contributing to open-source projects where I can apply my experience with TypeScript, Docker, and SQL databases.<br><br>💬 Ask me about:<br>TypeScript, database optimization, and strategies for maintaining clean and modular codebases.<br><br>⚡ Fun fact:<br>I enjoy reverse-engineering!
 
 
 ## 🌐 Socials:
